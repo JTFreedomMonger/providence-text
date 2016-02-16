@@ -1,4 +1,37 @@
 
 
-Providence Notes
+Protocols for a Free Humanity
+
+For centuries humanity has been enslaved, manipulated, stolen from and killed off by a relatively small number of people who have perfected a system of control down the ages.
+Various techniques and resources are used that follow a pattern of centralization, secrecy, deception, brutality and mind-control.
+These few have engineered the formation of humanity and its mind. The common person is born and lives within the construct of this control often with no awareness of its existence, similar to the proverbial fish who is not aware of the water it is swimming in.
+This construct of control requires the consent of the great majority who are not conscious of its true intent.
+The few who are in control rely upon secret plans and associations.
+Their desire is for ever more power, coming to them through centralization. The power structure is heirarchical, operating from the top down. It is essentially hidden and disguised.
+
+Despite the damage and control that humanity has endured through this system of control which many do not even recognize, there are a growing numbers who do recognize the true nature of our situation. The controllers of the power structure may attempt to steer humanity and its creations to follow their agenda but their rule is not absolute. Creations like the computer technology and the internet may have been originally been intended as tools for war and surveillance but they have allowed people an ability to share and gather information many orders of magnitude greater than ever before just within the last 20 years.
+Peer to peer technology and cryptography have been powerful forces pushing against the centralized grasp of the control structure.
+
+What's more, people have developed paradigms for disrupting the centralized status quo. Rather than have software be developed in a hierarchical top-down proprietary manner, the concepts of "Free Software" or "Open Source Software" allows for collaborative creation under a license which prevents the software from becoming propietary.
+The concept of "Peer to Peer" great disruptive potential to the power structure, like Bitcoin and cryptocurrency.
+
+The situation we're in is a struggle to disarm and overturn the control structure. The potential is great on either side, a fantastic era of freedom and prosperity once we have awoken to the true nature our situation and remedied it.
+Or we can go sleeping and controlled into the clutches of the genocide, enslavement and destruction of all that is good.
+
+This paper proposes that a new conceptual framework is needed to possibly address the dilemna of the control structure.
+
+The simple starting point is to imagine each person in the world as a node. These nodes participate in the control structure to one degree or another. To differing degrees each node is a victim of the control structure.
+
+The few that control rely upon shaping the minds of the many to become compliant and consenting to the ultimate agenda. The agenda is not openly revealed, nor is it shown who drives the agenda. Institutions are presented as the solution and saviour to our problems rather than the true root cause of our dilema.
+
+If it were true that each node:
+
+1. *Understood the Truth*
+Understood the nature of the control structure and how it operates, and the danger humanity faces.
+3. *Cared about the Truth*
+Not fallen into distractions and deceptions if the pain of seeing the truth is too great.
+4. *Acted on the Truth*
+Not merely known and care about what's happening but actually making a stand and taking action.
+5. *Acted in an efficient and organized manner*
+
 
